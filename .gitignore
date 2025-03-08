@@ -1,0 +1,19 @@
+# System file created by macOS
+.DS_Store
+
+# Backup folder created by Jupyter Notebook
+.ipynb_checkpoints/
+
+# Temporary files created by VS Code
+.virtual_documents/
+
+# Virtual environment folder (for Python projects)
+venv/
+.env
+
+# Compilation or cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
